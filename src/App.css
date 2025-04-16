@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.container{
+    padding: 0 130px;
+}
